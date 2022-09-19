@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+
+201908-citibike-tripdata.csv
+
+201908-citibike-tripdataREVISED.csv
+
 __pycache__/
 *.py[cod]
 *$py.class

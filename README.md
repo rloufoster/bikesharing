@@ -62,14 +62,14 @@ Thursday is the highest usage day among subscribers.  Non-subscribing customers 
 
 Based on the following insights:
 
-1.) high volume of bike utilization in Lower Manhatten which is the financial district highly congested with business professionals
-2.) the weekday time frames of heavy usage being (7-9 am and 5-7 pm)
-3.) the majority of the users are subscribers which would indicate that they are more frequent users
-4.) most of the weekday usage within the commuter timeframes have durations of 10 minutes or less
+  * 1.) high volume of bike utilization in Lower Manhatten which is the financial district highly congested with business professionals
+  * 2.) the weekday time frames of heavy usage being (7-9 am and 5-7 pm)
+  * 3.) the majority of the users are subscribers which would indicate that they are more frequent users
+  * 4.) most of the weekday usage within the commuter timeframes have durations of 10 minutes or less
 
-we can draw the conclusion that bike sharing is most likely being used as a means of commuting to and from work.  
+We can then make the inference that bike sharing is most likely being used as a means of commuting to and from work.  
 
-In summary, the proposed bike sharing company in Des Moines, could be a successful business plan.  Further research should be contributed in order to isolate the ideal locations for the stations. The following questions should be investigated: 1.) Where is the business district in Des Moines? Is the business district concentrated in 1 area or multiple areas? 2.) What about Universities?  Could bike sharing to and from the University bar scene be utilized?  The ideal locations to research would be densely populated areas with little parking availability. 
+In summary, the proposed bike sharing company in Des Moines, could be a successful business plan.  Further research should be contributed in order to isolate the ideal locations for the stations. The following questions should be investigated and visualizations added: 1.) Where is the business district in Des Moines? Is the business district concentrated in 1 area or multiple areas? 2.) What about Universities?  Could bike sharing to and from the University bar scene be utilized?  The ideal locations to research would be densely populated areas with little parking availability. 
 
 Additional visualizations that map out usage from starting to ending location to determine the distance traveled would be helpful. Where are specific NYC users starting and ending their trips? GeoCoordinate data could be used to map their bike paths. It would also be helpful to study highly congested college towns.  How are bike sharing programs doing in those areas?  What about usage in cities where the business districts are not as highly concentrated as Lower Manhatten? Visualizations that further break down the demographics of the riders would also be important. I would also want to research cities that better match the characteristics of Des Moines, IA.  What are the traffic patterns?  It would also be helpful to see visualizations of other months over a longer period of time.
 
